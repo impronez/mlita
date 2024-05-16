@@ -1,0 +1,5 @@
+clockwise
+unclockwise
+clockwise
+unclockwise
+immovable
